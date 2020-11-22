@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'crispy_forms',
     'register.apps.RegisterConfig',
     'home.apps.HomeConfig',
-    'livedata.apps.LivedataConfig'
+    'livedata.apps.LivedataConfig',
+    'visualization.apps.VisualizationConfig'
 ]
 
 MIDDLEWARE = [
